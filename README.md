@@ -1,4 +1,4 @@
-@@ -1,25 +1,25 @@
+
 Hi 👋 
 ==============================
 <h2 align="center">
@@ -7,7 +7,7 @@ Hi 👋
 </h2>
   
 <p align="center">
-  <a href="https://github.com/nitesh31mishra?tab=followers">
+  <a href="https://github.com/Kirthik1104?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/nitesh31mishra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
