@@ -17,7 +17,7 @@ My Interest is more into Software Developement, Machine learning, Deep learning,
 
 
 
-* 🌍  I'm based in Mumbai, India
+* 🌍  I'm based in New York, USA
 * 🌍  I'm based in Binghamton, New York
 * ✉️  You can contact me at [kirthikraj1104@gmail.com](mailto:kirthikraj1104@gmail.com)
 * 🧠  I'm currently learning Algorithms, Database Systems and Opearting Systems
