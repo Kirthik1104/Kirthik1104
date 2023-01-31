@@ -17,11 +17,11 @@ My Interest is more into Software Developement, Machine learning, Deep learning,
 
 
 
+
 * 🌍  I'm based in New York, USA
 * 🌍  I'm based in Binghamton, New York
 * ✉️  You can contact me at [kirthikraj1104@gmail.com](mailto:kirthikraj1104@gmail.com)
-* 🧠  I'm currently learning Database System, Design & Analysis of Algorithm, Operating System, Programming Language, Cloud Computing & 
-       System Programming
+* 🧠  I'm currently learning Database System, Design & Analysis of Algorithm, Operating System, Programming Language, Cloud Computing & System Programming
 * 🤝  I'm open to collaborating on Software Development, Data Science and Ecommerce Consultant projects
 
 
