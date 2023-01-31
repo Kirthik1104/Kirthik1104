@@ -13,7 +13,7 @@ Hi 👋
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 I am pursuing my Masters in Computer Science degree from State University of New York at Binghamton. 
-My Interest is more into Software Developement, Machine learning, Deep learning, Data Science, Ecommerce Consultant and Facebook Ads Manager.
+My Interest is more into Software Developement, Machine learning, Deep learning, Data Science, Ecommerce Consultant and Facebook Ads Manager.<br>
 
 
 
