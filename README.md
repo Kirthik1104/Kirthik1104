@@ -51,7 +51,7 @@ I'm currently pursuing my Masters in Computer Science at the State University of
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-####Feel free to connect and explore potential collaborations or discussions on these subjects! 😊
+**Feel free to connect and explore potential collaborations or discussions on these subjects! 😊**
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/Kirthik1104" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kirthikrajkamaraj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
