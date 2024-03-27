@@ -1,5 +1,5 @@
 
-Hi 👋 
+### Hi 👋 
 ==============================
 <h2 align="center">
   Welcome to my profile!
@@ -7,9 +7,10 @@ Hi 👋
 </h2>
   
 <p align="center">
-  <a href="https://github.com/Kirthik1104?tab=followers">
+  <a href="https://github.com/Kirthik1104">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Kirthik1104?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 I am pursuing my Masters in Computer Science degree from State University of New York at Binghamton. 
