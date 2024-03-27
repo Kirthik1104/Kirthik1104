@@ -23,21 +23,8 @@ My Interest is more into Software Developement, Cloud Architect, Solutions Archi
 * ✉️  You can contact me at [kirthikraj1104@gmail.com](mailto:kirthikraj1104@gmail.com)
 * 🤝  I'm open to collaborating on Software Development, Cloud Architect, Data Engineer/AnalystCloud Architect
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Website</title>
-</head>
-<body>
-  <!-- Paste this code wherever you want to display your credential -->
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91a40525-5293-4d65-a359-a7dfb62cc420" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</body>
-</html>
 
-
+[![AWS Certified Solutions Architect Badge](https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url)](https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url)
 
 
 ### Skills
