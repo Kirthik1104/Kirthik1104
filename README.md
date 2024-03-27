@@ -25,7 +25,10 @@ My Interest is more into Software Developement, Cloud Architect, Solutions Archi
 
 
 ### AWS Certifications
-[![AWS Certified Developer - Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url)
+<a href="https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150">
+</a>
+
 
 
 
