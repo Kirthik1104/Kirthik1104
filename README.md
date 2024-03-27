@@ -24,7 +24,8 @@ My Interest is more into Software Developement, Cloud Architect, Solutions Archi
 * 🤝  I'm open to collaborating on Software Development, Cloud Architect, Data Engineer/AnalystCloud Architect
 
 
-[![AWS Certified Solutions Architect Badge]([https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url](https://www.credly.com/earner/earned/share/91a40525-5293-4d65-a359-a7dfb62cc420?provider=download))](https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url)
+### AWS Certifications
+[![AWS Certified Developer - Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url)
 
 
 
