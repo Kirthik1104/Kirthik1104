@@ -18,7 +18,6 @@ My Interest is more into Software Developement, Cloud Architect, Solutions Archi
 
 
 
-* 🌍  I'm based in New York, USA
 * 🌍  I'm based in Binghamton, New York
 * ✉️  You can contact me at [kirthikraj1104@gmail.com](mailto:kirthikraj1104@gmail.com)
 * 🤝  I'm open to collaborating on Software Development, Cloud Architect, Data Engineer/AnalystCloud Architect
