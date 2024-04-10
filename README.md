@@ -13,7 +13,7 @@
 
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
-I'm currently pursuing my Masters in Computer Science at the State University of New York, Binghamton. With a keen interest in Software Development, Cloud Architecture, Solutions Architecture, and Data Engineering/Analysis, I'm passionate about leveraging technology to solve complex problems and drive innovation.
+I'm currently pursuing my Masters in Computer Science at the State University of New York, Binghamton. With a keen interest in Software Development, Cloud Architecture, DevOps, Solutions Architecture, and Data Engineering/Analysis, I'm passionate about leveraging technology to solve complex problems and drive innovation.
 
 
 
