@@ -20,7 +20,7 @@ I'm currently pursuing my Masters in Computer Science at the State University of
 
 * 🌍  I'm based in Binghamton, New York
 * ✉️  You can contact me at [kirthikraj1104@gmail.com](mailto:kirthikraj1104@gmail.com)
-* 🤝  I'm open to collaborating on Software Development, Cloud Architect, Data Engineer/AnalystCloud Architect
+* 🤝  I'm open to collaborating on Software Development, Cloud Architect, DevOps, Data Engineer/Analyst
 
 
 ### AWS Certifications
